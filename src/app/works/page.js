@@ -23,10 +23,11 @@ export default function Works(){
     return(
         <div className="pt-40 p-20 ">
             <h1 className="font-bold text-6xl">Works</h1>
+           
             <div className="flex flex-row flex-wrap">
             { Portfolio.map(c=>{
                 return(
-                    
+                    <Link href={`/eachWork/${c.id}`}>
                     <div key={c.id} className="flex flex-row mt-20 m-2">
             <div className="flex flex-col">
             <Image src={c.image_url} width={400} height={300}/>
@@ -36,14 +37,13 @@ export default function Works(){
             </div>
             </div>
         </div>
+        </Link>
                     )
         })}
         </div>
+        
 
-        <div className="flex flex-col w-1/3 items-center mx-auto my-10 text-center"><h3 className="mb-10 text-lg">Together, we'll transform your business and pave the way for success! Let's make it happen. Get ready to be captivated by the seamless integration of aesthetics and functionality.</h3>
-        <Link className="w-fit" href="/start"> <div id="button" className="py-4 px-12 bg-btn_colors  outline rounded-sm w-fit outline-btn_colors text-sm font-light" >Start a Project</div></Link>
-
-        </div>
+      
 
         <Footer/>
         </div>
