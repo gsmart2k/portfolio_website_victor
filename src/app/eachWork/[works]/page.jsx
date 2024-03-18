@@ -12,13 +12,13 @@ export default function EachWork ({params}){
        { id:2,color:'bg-amber-800', imageUrl:'/eachwork/adsynthetica1.png', title:'Adsynthetica',cost:'$300', Time:'1 week', DesignTeam: 'Just Me', Deliverables: '2 Screens, 2 Modals'},
        { id:3,color:'bg-brown-900', imageUrl:'/eachwork/adsynthetica2.png', title:'Adsynthetica',cost:'$800', Time:'3 weeks', DesignTeam: 'Just Me', Deliverables: '26 Screens, 14 Modals'},
        { id:4,color:'bg-brown-900', imageUrl:'/eachwork/givaa.png', title:'GIVAA',cost:'$800', Time:'3 weeks', DesignTeam: 'Just Me', Deliverables: '26 Screens, 14 Modals'},
-       { id:5,color:'bg-yellow-950', imageUrl:'/eachwork/5.png', title:'LW Virtual Internship',cost:'$800', Time:'3 weeks', DesignTeam: 'Just Me', Deliverables: '26 Screens, 14 Modals'},
-       { id:6,color:'bg-green-950', imageUrl:'/eachwork/6.png', title:'Kwakol Bonus Page',cost:'$800', Time:'3 weeks', DesignTeam: 'Just Me', Deliverables: '26 Screens, 14 Modals'},
-       { id:7,color:'bg-green-950', imageUrl:'/eachwork/7.png', title:'Kwakol Bonus Page',cost:'$150', Time:'2 weeks', DesignTeam: 'Just Me', Deliverables: '26 Screens, 14 Modals'},
-       { id:8,color:'bg-amber-950', imageUrl:'/eachwork/8.png', title:'Kwakol Bonus Page',cost:'$150', Time:'2 weeks', DesignTeam: 'Just Me', Deliverables: '26 Screens, 14 Modals'},
-       { id:9,color:'bg-green-900', imageUrl:'/eachwork/9.png', title:'Loveworld Virtual Internship',cost:'$800', Time:'2 weeks', DesignTeam: 'Just Me', Deliverables: '26 Screens, 14 Modals'},
-       { id:10,color:'bg-green-900', imageUrl:'/eachwork/10.png', title:'Loveworld Virtual Internship',cost:'$800', Time:'3 weeks', DesignTeam: 'Just Me', Deliverables: '26 Screens, 14 Modals'},
-       { id:11,color:'bg-green-900', imageUrl:'/eachwork/11.png', title:'Loveworld Virtual Internship',cost:'$800', Time:'3 weeks', DesignTeam: 'Just Me', Deliverables: '26 Screens, 14 Modals'},
+       { id:5,color:'bg-yellow-950', imageUrl:'/eachwork/lw1.png', title:'LW Virtual Internship',cost:'$800', Time:'3 weeks', DesignTeam: 'Just Me', Deliverables: '26 Screens, 14 Modals'},
+       { id:6,color:'bg-green-950', imageUrl:'/eachwork/kwakol.png', title:'Kwakol Bonus Page',cost:'$800', Time:'3 weeks', DesignTeam: 'Just Me', Deliverables: '26 Screens, 14 Modals'},
+       { id:7,color:'bg-green-950', imageUrl:'/eachwork/kwakol2.png', title:'Kwakol Bonus Page',cost:'$150', Time:'2 weeks', DesignTeam: 'Just Me', Deliverables: '26 Screens, 14 Modals'},
+       { id:8,color:'bg-amber-950', imageUrl:'/eachwork/kwakol3.png', title:'Kwakol Bonus Page',cost:'$150', Time:'2 weeks', DesignTeam: 'Just Me', Deliverables: '26 Screens, 14 Modals'},
+       { id:9,color:'bg-green-900', imageUrl:'/eachwork/lw2.png', title:'Loveworld Virtual Internship',cost:'$800', Time:'2 weeks', DesignTeam: 'Just Me', Deliverables: '26 Screens, 14 Modals'},
+       { id:10,color:'bg-green-900', imageUrl:'/eachwork/lw3.png', title:'Loveworld Virtual Internship',cost:'$800', Time:'3 weeks', DesignTeam: 'Just Me', Deliverables: '26 Screens, 14 Modals'},
+       { id:11,color:'bg-green-900', imageUrl:'/eachwork/lw4.png', title:'Loveworld Virtual Internship',cost:'$800', Time:'3 weeks', DesignTeam: 'Just Me', Deliverables: '26 Screens, 14 Modals'},
     ]
 
 
